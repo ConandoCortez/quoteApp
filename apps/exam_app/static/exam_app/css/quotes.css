@@ -1,0 +1,40 @@
+*{
+    margin: 0px auto;
+}
+body{
+    width: 970px;
+}
+
+.individualQuote{
+    border: 2px solid black;
+    margin: 5px
+}
+
+.quotes {
+    width: 350px;
+    height: 500px;
+    border: 3px solid black;
+    margin: 10px;
+    overflow: scroll;
+}
+
+.favorites{
+    display: inline-block;
+    float: right;
+    width: 350px;
+    height: 200px;
+    border: 3px solid black;
+    margin: 7px;
+    margin-top: 30px;
+    overflow: scroll;
+}
+.favoriteQuote{
+    margin: 5px;
+    border: 2px solid black;
+}
+table{
+    margin: 10px;
+}
+h1{
+    display:inline-block;
+}
